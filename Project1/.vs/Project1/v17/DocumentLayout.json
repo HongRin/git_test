@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hrsy0\\OneDrive\\Desktop\\git_test\\Project1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DFCC8A73-77FA-473F-BCA4-C74435AD0F4A}|Project1\\Project1.vcxproj|C:\\Users\\hrsy0\\OneDrive\\Desktop\\git_test\\Project1\\Project1\\Eunjun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFCC8A73-77FA-473F-BCA4-C74435AD0F4A}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Eunjun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DFCC8A73-77FA-473F-BCA4-C74435AD0F4A}|Project1\\Project1.vcxproj|C:\\Users\\hrsy0\\OneDrive\\Desktop\\git_test\\Project1\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DFCC8A73-77FA-473F-BCA4-C74435AD0F4A}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Eunjun.cpp",
+              "DocumentMoniker": "C:\\Users\\hrsy0\\OneDrive\\Desktop\\git_test\\Project1\\Project1\\Eunjun.cpp",
+              "RelativeDocumentMoniker": "Project1\\Eunjun.cpp",
+              "ToolTip": "C:\\Users\\hrsy0\\OneDrive\\Desktop\\git_test\\Project1\\Project1\\Eunjun.cpp",
+              "RelativeToolTip": "Project1\\Eunjun.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T06:54:40.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\hrsy0\\OneDrive\\Desktop\\git_test\\Project1\\Project1\\main.cpp",
               "RelativeDocumentMoniker": "Project1\\main.cpp",
